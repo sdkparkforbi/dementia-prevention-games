@@ -1,0 +1,7 @@
+# 데이터베이스 설정 파일 (실제 비밀번호 포함)
+db_config.php
+
+# 기타 제외 항목
+.DS_Store
+Thumbs.db
+*.log
